@@ -4,6 +4,7 @@ interface SegmentProps {
   title: string;
   description: string;
   icon: React.ReactNode;
+  link: string;
 }
 
 const Segment: React.FC<SegmentProps> = ({ title, description, icon, link }) => {

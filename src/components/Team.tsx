@@ -21,12 +21,12 @@ const teamMembers: TeamMemberData[] = [
   },
   {
     name: "Sheikh Faique Ahmed",
-    role: "Community / Operational Head",
+    role: "Community / Operational Head Tech Innovators",
     institution: "Muhammad Ali Jinnah University (PGC)-Karachi, Pakistan",
   },
   {
     name: "Steve Barret Jonathan",
-    role: "Operational Manager",
+    role: "Collaborational Manager Tech Innovators",
     institution: "University of Alberta-Edmonton, Canada",
   }
 ];
