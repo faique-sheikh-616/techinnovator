@@ -52,8 +52,8 @@ const Hero: React.FC = () => {
         </div>
       </div>
       <div
-        className="absolute bottom-0 left-0 w-full overflow-hidden h-[14rem]"
-        style={{ transform: 'translateY(1px)' }}
+        className="absolute bottom-0 left-0 w-full overflow-hidden"
+        style={{ transform: 'translateY(189px)' }}
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
